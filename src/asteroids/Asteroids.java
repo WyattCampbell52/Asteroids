@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package assteroids;
+package asteroids;
 import environment.ApplicationStarter;
 
 /**
  *
  * @author WyattCampbell
  */
-public class Assteroids {
+public class Asteroids {
 
     /**
      * @param args the command line arguments
